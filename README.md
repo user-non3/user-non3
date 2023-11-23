@@ -1,20 +1,13 @@
 # About morozov-razrab
 
-## Hi, I'm morozov 
+## Hi, I'm morozov a.k.a Maxim
 
 ## 🤝 Contact with me
 
 [![t.me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/morozov_razrab) [![vk.com](https://img.shields.io/badge/vkontakte-3670A0?style=for-the-badge&logo=vk&logoColor=ffffff)](https://vk.com/morozov.razrab) 
 
-## 🌱 I'm currently learning
+## 🔭 I'm currently learning
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.com) [![Pawn](https://img.shields.io/badge/pawno-3670A0?style=for-the-badge&logo=pawno&logoColor=ffdd54)](https://python.com) [![Web Development](https://img.shields.io/badge/Web-Development-3670A0?style=for-the-badge&logo=web&logoColor=ffdd54)](https://github.com/morozov-razrab) 
-
-## 🔭 I'm currently working on
-
-  - Telegram bots
-  - Discord bots
-  - Web-sites
-  - App's
 
 ## 📈 GitHub Stats
 
