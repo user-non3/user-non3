@@ -1,6 +1,6 @@
 # About morozov-razrab
 
-## Hi, I'm morozov a.k.a Maxim
+## Hi, I'm morozov a.k.a Alex
 
 ## 🤝 Contact with me
 
