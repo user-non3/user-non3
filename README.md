@@ -7,7 +7,7 @@
 [![t.me](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/morozov_razrab) [![vk.com](https://img.shields.io/badge/vkontakte-3670A0?style=for-the-badge&logo=vk&logoColor=ffffff)](https://vk.com/morozov.razrab) 
 
 ## 🌱 I'm currently learning
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.com) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.com) [![Python](https://img.shields.io/badge/web-3670A0?style=for-the-badge&logo=web&logoColor=ffdd54)](https://python.com) 
 
 ## 🔭 I'm currently working on
 
