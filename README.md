@@ -1,6 +1,6 @@
 # About morozov-razrab
 
-## Hi, I'm morozov a.k.a Alex
+## Hi, I'm morozov
 
 ## 🤝 Contact with me
 
