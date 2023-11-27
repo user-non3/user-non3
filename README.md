@@ -11,5 +11,5 @@
 
 ## 📈 GitHub Stats
 
-![morozov-stats](https://github-readme-stats.vercel.app/api?username=morozov-razrab&show_icons=true)
+![morozov-stats](https://github-readme-stats.vercel.app/api?username=morozov-razrab&show_icons=true&theme=dracula)
 
