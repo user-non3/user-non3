@@ -2,10 +2,6 @@
 
 [![vk.com](https://img.shields.io/badge/-Vkontakte-0077FF?style=for-the-badge&logo=vk)](https://vk.com/user.none) [![t.me](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/devazo) 
 
-### 📈 GitHub Stats
-
-
-
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
