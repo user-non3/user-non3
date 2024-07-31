@@ -4,7 +4,7 @@
 
 ### 📈 GitHub Stats
 
-![morozov-stats](https://github-readme-stats.vercel.app/api?username=user-non3&show_icons=true&theme=tokyonight)
+![github-stats](https://github-readme-stats.vercel.app/api?username=user-non3&show_icons=true&theme=tokyonight&hide=prs,contribs,issues)
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
