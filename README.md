@@ -1,6 +1,6 @@
 ### 🤝 Мои контакты
 
-[![vk.com](https://img.shields.io/badge/-Vkontakte-0077FF?style=for-the-badge&logo=vk)](https://vk.com/user.none) [![t.me](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/devazo) 
+[![vk.com](https://img.shields.io/badge/-Vkontakte-0077FF?style=for-the-badge&logo=vk)](https://vk.com/xxx.mane) [![t.me](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/devazo) 
 
 ### Мой стек технологий
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
