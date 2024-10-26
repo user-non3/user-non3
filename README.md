@@ -12,7 +12,7 @@
 ![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua]([https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white](https://img.shields.io/badge/-Lua-darkblue?style=for-the-badge&logo=lua&logoColor=white))
+![Lua](https://img.shields.io/badge/-Lua-darkblue?style=for-the-badge&logo=lua&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/-phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)  
