@@ -19,5 +19,6 @@
 ![Redux](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-zustand-333?style=for-the-badge&logo=zustand&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Django](https://img.shields.io/badge/-django-4287f5?style=for-the-badge&logo=django)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-non3&layout=compact&theme=dark)ㅤ![github-stats](https://github-readme-stats.vercel.app/api?username=user-non3&show_icons=true&theme=dark&hide=prs,contribs,issues)
