@@ -28,6 +28,5 @@
 ![phpMyAdmin](https://img.shields.io/badge/-phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-darkblue?style=for-the-badge&logo=lua&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user-non3&layout=compact&theme=dark)
