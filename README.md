@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-zustand-333?style=for-the-badge&logo=zustand&logoColor=white)
-![CSS]([https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css&logoColor=ffffff))
+![CSS](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&logo=css&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff)
 ![TailWindCSS](https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 
